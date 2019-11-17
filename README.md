@@ -1,2 +1,2 @@
-# STAT404
+# Design
 Design and Analysis of Experiments
